@@ -4,6 +4,8 @@
 
 📊 Atualmente estou estudando Estatística e Ciência de Dados
 
+🖥️	Sou monitora no projeto de extensão [Meninas Programadoras] (https://meninasprogramadoras.icmc.usp.br/inicio) 
+
 <div style="display: inline_block" align="center"><br>
   <h2 style="color:B641F5;"> Tecnologias utilizadas </h2>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
