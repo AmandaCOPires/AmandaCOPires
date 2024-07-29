@@ -4,9 +4,6 @@
 
 - 📊 I’m currently learning Statistics and DataScience
 
-  
-
-
 <div style="display: inline_block" align="center"><br>
   <h2 style="color:B641F5;"> Technologies used </h2>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
