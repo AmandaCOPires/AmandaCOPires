@@ -2,7 +2,7 @@
 
 ### Olá 👋
 
-- 📊 Atualmente estou estudando Estatística e Ciência de Dados
+📊 Atualmente estou estudando Estatística e Ciência de Dados
 
 <div style="display: inline_block" align="center"><br>
   <h2 style="color:B641F5;"> Tecnologias utilizadas </h2>
