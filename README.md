@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EED2EE&height=120&section=header"/>
 
-### Hi there 👋
+### Olá 👋
 
-- 📊 I’m currently learning Statistics and DataScience
+- 📊 Atualmente estou estudando Estatística e Ciência de Dados
 
 <div style="display: inline_block" align="center"><br>
-  <h2 style="color:B641F5;"> Technologies used </h2>
+  <h2 style="color:B641F5;"> Tecnologias utilizadas </h2>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <br><br> 
   <img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
