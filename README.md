@@ -6,7 +6,7 @@
 
 🖥️	Sou monitora no projeto de extensão [Meninas Programadoras](https://meninasprogramadoras.icmc.usp.br/inicio) 
 
-👩‍💻 Inciação Científica: Tamanho amostral e capacidade preditiva de métodos de aprendizado de máquina em modelos para dados de tempo de vida.
+👩‍💻 Iniciação Científica: Tamanho amostral e capacidade preditiva de métodos de aprendizado de máquina em modelos para dados de tempo de vida.
 
 <div style="display: inline_block" align="center"><br>
   <h2 style="color:B641F5;"> Tecnologias utilizadas </h2>
