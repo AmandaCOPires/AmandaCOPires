@@ -4,7 +4,7 @@
 
 📊 Atualmente estou estudando Estatística e Ciência de Dados
 
-🖥️	Sou monitora no projeto de extensão [Meninas Programadoras](https://meninasprogramadoras.icmc.usp.br/inicio) 
+🖥️	Atuei como monitora no projeto de extensão [Meninas Programadoras](https://meninasprogramadoras.icmc.usp.br/inicio) 
 
 👩‍💻 Iniciação Científica: Tamanho amostral e capacidade preditiva de métodos de aprendizado de máquina em modelos para dados de tempo de vida. (CNPq)
 
